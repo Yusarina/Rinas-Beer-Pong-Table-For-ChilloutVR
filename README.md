@@ -17,7 +17,7 @@ Requirments:
 Version 0.1 Features
 - 4 Row of cups and 5 row of cups choice of game.
 - Ball reset button for each side.
-- Decent psyics, should work fine.
+- Decent physics, should work fine.
 
 That's about it ofr now.
 
