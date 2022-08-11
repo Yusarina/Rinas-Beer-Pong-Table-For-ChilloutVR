@@ -14,18 +14,22 @@ Requirments:
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 
-Version 0.1 Features
+There are two versions to download.
+
+Version 0.1 Features (Current recomended):
 - 4 Row of cups and 5 row of cups choice of game.
 - Ball reset button for each side.
 - Decent physics, should work fine.
 
-That's about it ofr now.
+Version 0.1.1: 
+Same as a above, but has a new table model and slightly better physics, this version is the first stepping stone to verison 0.2, however due to the model not being 100% finished it is not an release candidate.
+
+That's about it for now.
 
 Things I am working on, (note some features may not be released for a while unto CVR makes it easier to make these things.
 
 - Score board system.
 - More row of cups.
-- New table model.
 - Better UI.
 - Floor collider, so if the ball hits the ground it will reset.
 
