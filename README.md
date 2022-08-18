@@ -4,7 +4,7 @@ NOTICE: The Table needs it own layer named BeerPongTable for it to work, see ima
 
 A beer pong table for ChilloutVR, just import it into your project, make sure you have TextMeshPro as well.
 
-- You can also get this off Gumroad: Coming Soon.
+- You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliacvrbeerpongtable
 - Find more assets on my website: https://jolia.xyz
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
@@ -35,8 +35,17 @@ Things I am working on, (note some features may not be released for a while unto
 
 - Score board system.
 
-See image below (NEW IMAGES ARE COMING SOON).
-![alt text](https://i.imgur.com/nsn5oj1.jpeg)
+How too add a layer:
+![alt text](https://cloud.jolia.xyz/s/xBjr48HzbZfJaDn/download/Pic1.jpg)
+![alt text](https://cloud.jolia.xyz/s/SdNBzYw9inWs2Fw/download/Pic2.jpg)
+
+Images of Beer Pong Table:
+![alt text](https://cloud.jolia.xyz/s/wB249jfKamiD252/download/ChilloutVR-2022-08-18_12-34-36.png)
+![alt text](https://cloud.jolia.xyz/s/37E98Ttpo5fgAXL/download/ChilloutVR-2022-08-18_12-35-13.png)
+![alt text](https://cloud.jolia.xyz/s/eJZkinde5SsnwXp/download/ChilloutVR-2022-08-18_12-35-24.png)
+![alt text](https://cloud.jolia.xyz/s/xKLyk97NWQWAETn/download/ChilloutVR-2022-08-18_12-35-44.png)
+
 
 License:
-You may use this asset as you see fit, please just credit me if anyone asks.
+
+You can use this in ChilloutVR worlds only, for any other use case please contact me on my discord server. You may edit the asset as you see fit for the purpose of your world. Please ensure you give me credit though.
