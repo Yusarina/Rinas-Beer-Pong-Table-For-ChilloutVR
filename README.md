@@ -22,7 +22,7 @@ Version 0.1 Features (Current recomended):
 - Ball reset button for each side.
 - Decent physics, should work fine.
 
-Version 0.2: 
+Version 0.2 Features (Coming soon): 
 - 4, 5, 6 and 7 Row of cups.
 - Better UI.
 - Ball reset button for each side.
