@@ -8,7 +8,7 @@ A beer pong table for ChilloutVR, just import it into your project, make sure yo
 - Find more assets on my website: https://jolia.xyz
 - Join my discord server: https://discord.gg/T8zYhgvcpF
 
-Requirments:
+Requirements:
 - Unity 2019.4.31f1
 - ChilloutVR CCK 3.3
 - Basic Unity and CVR knowledge.
