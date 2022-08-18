@@ -1,6 +1,6 @@
 # Jolia's Beer Pong Table For ChilloutVR
 
-NOTICE: This version is a early version, it works fine however it will be updated soon.
+NOTICE: The Table needs it own layer named BeerPongTable for it to work, see images below for more info.
 
 A beer pong table for ChilloutVR, just import it into your project, make sure you have TextMeshPro as well.
 
@@ -13,6 +13,7 @@ Requirments:
 - ChilloutVR CCK 3.3
 - Basic Unity and CVR knowledge.
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
+- It's own layer called BeerPongTable (see images below).
 
 There are two versions to download.
 
@@ -21,21 +22,20 @@ Version 0.1 Features (Current recomended):
 - Ball reset button for each side.
 - Decent physics, should work fine.
 
-Version 0.1.1: 
-Same as a above, but has a new table model and slightly better physics, this version is the first stepping stone to verison 0.2, however due to the model not being 100% finished it is not an release candidate.
+Version 0.2: 
+- 4, 5, 6 and 7 Row of cups.
+- Better UI.
+- Ball reset button for each side.
+- Better physics to 0.1.
+- Optional floor collider so when the ball hits the floor it will reset, note there is no way yet to detect which players turn it is so it will just reset to the left hand side. You can also make you own collider and set it to the BeerPongTable layer instead.
 
 That's about it for now.
 
-Things I am working on, (note some features may not be released for a while unto CVR makes it easier to make these things.
+Things I am working on, (note some features may not be released for a while unto CVR makes it easier to make these things).
 
 - Score board system.
-- More row of cups.
-- Better UI.
-- Floor collider, so if the ball hits the ground it will reset.
 
-
-
-See image below: 
+See image below (NEW IMAGES ARE COMING SOON).
 ![alt text](https://i.imgur.com/nsn5oj1.jpeg)
 
 License:
