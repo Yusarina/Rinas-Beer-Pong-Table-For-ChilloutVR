@@ -2,7 +2,7 @@
 
 NOTICE: The Table needs it own layer named BeerPongTable for it to work, see images below for more info.
 
-A beer pong table for ChilloutVR, just import it into your project, make sure you have TextMeshPro as well.
+A WIP beer pong table for ChilloutVR, just import it into your project, make sure you have TextMeshPro as well.
 
 - You can also get this off Gumroad: https://joliavr.gumroad.com/l/joliacvrbeerpongtable
 - Find more assets on my website: https://jolia.xyz
