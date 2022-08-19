@@ -48,4 +48,4 @@ Images of Beer Pong Table:
 
 License:
 
-You can use this in ChilloutVR worlds only, for any other use case please contact me on my discord server. You may edit the asset as you see fit for the purpose of your world. Please ensure you give me credit though.
+You can do what you want, just please credit me/ do not remove the github link. Pen model made by myself, you can use it in your own projects if you want too.
