@@ -15,6 +15,9 @@ Requirements:
 - TextMeshPro - You can get this via Unity's package manager, it is free. We use a font from there.
 - It's own layer called BeerPongTable (see images below).
 
+Known Issues: 
+- There ball sometimes will teleport through the cups when it being reset, which will make it think someone has hit the cup with the ball and remove the cup this will be fixed in a future update.
+
 There are two versions to download.
 
 Version 0.1 Features:
