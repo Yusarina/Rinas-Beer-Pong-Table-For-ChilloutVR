@@ -29,7 +29,7 @@ Version 0.2 Features (Current recomended):
 - 4, 5, 6 and 7 Row of cups.
 - Better UI.
 - Ball reset button for each side.
-- Better physics to 0.1.
+- Better physics then 0.1.
 - Optional floor collider so when the ball hits the floor it will reset, note there is no way yet to detect which players turn it is so it will just reset to the left hand side. You can also make you own collider and set it to the BeerPongTable layer instead.
 
 That's about it for now.
