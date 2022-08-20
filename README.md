@@ -16,7 +16,7 @@ Requirements:
 - It's own layer called BeerPongTable (see images below).
 
 Known Issues: 
-- There ball sometimes will teleport through the cups when it being reset, which will make it think someone has hit the cup with the ball and remove the cup this will be fixed in a future update.
+If the ball is traveling it will sometimes jump out of cup holder on teleportation, I working on a way to freaze the ball in place when teleporting so this doesn't happen.
 
 There are two versions to download.
 
