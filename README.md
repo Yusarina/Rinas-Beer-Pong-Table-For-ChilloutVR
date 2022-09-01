@@ -39,14 +39,14 @@ Things I am working on, (note some features may not be released for a while unto
 - Score board system.
 
 How too add a layer:
-![alt text](https://cloud.jolia.xyz/s/xBjr48HzbZfJaDn/download/Pic1.jpg)
-![alt text](https://cloud.jolia.xyz/s/SdNBzYw9inWs2Fw/download/Pic2.jpg)
+![alt text](https://i.imgur.com/94PIMjT.jpg)
+![alt text](https://i.imgur.com/quC6Dhb.jpg)
 
 Images of Beer Pong Table:
-![alt text](https://cloud.jolia.xyz/s/wB249jfKamiD252/download/ChilloutVR-2022-08-18_12-34-36.png)
-![alt text](https://cloud.jolia.xyz/s/37E98Ttpo5fgAXL/download/ChilloutVR-2022-08-18_12-35-13.png)
-![alt text](https://cloud.jolia.xyz/s/eJZkinde5SsnwXp/download/ChilloutVR-2022-08-18_12-35-24.png)
-![alt text](https://cloud.jolia.xyz/s/xKLyk97NWQWAETn/download/ChilloutVR-2022-08-18_12-35-44.png)
+![alt text](https://i.imgur.com/Im96l8w.jpg)
+![alt text](https://i.imgur.com/Kmuh6f6.jpg)
+![alt text](https://i.imgur.com/qg7lBhi.jpg)
+![alt text](https://i.imgur.com/Cns9kXB.jpg)
 
 
 License:
