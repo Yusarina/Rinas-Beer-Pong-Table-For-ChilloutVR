@@ -39,10 +39,12 @@ Things I am working on, (note some features may not be released for a while unto
 - Score board system.
 
 How too add a layer:
+
 ![alt text](https://i.imgur.com/94PIMjT.jpg)
 ![alt text](https://i.imgur.com/quC6Dhb.jpg)
 
 Images of Beer Pong Table:
+
 ![alt text](https://i.imgur.com/Im96l8w.jpg)
 ![alt text](https://i.imgur.com/Kmuh6f6.jpg)
 ![alt text](https://i.imgur.com/qg7lBhi.jpg)
