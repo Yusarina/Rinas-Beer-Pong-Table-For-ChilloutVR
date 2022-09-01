@@ -51,4 +51,4 @@ Images of Beer Pong Table:
 
 License:
 
-You can do what you want, just please credit me/ do not remove the github link. Pen model made by myself, you can use it in your own projects if you want too.
+All my assets unless otherwise stated fall under the Creative Commons Attribution 4.0 International (CC BY 4.0) License which means you can use my assets in anyway you want as long as you give me credit! See the full license here: https://creativecommons.org/licenses/by/4.0/
