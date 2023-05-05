@@ -1,5 +1,7 @@
 # Jolia's Beer Pong Table For ChilloutVR
 
+NOTICE: AS OF 05/05/2023 I AM NO LONGER MAINTAINING THIS, THIS IS BECAUSE I HAVE TAKEN A BREAK FROM SOCIAL VR GAMES I MAY COME BACK IN THE FUTURE, BUT AS OF RIGHT NOW THE ITEM IS STILL WORKING HOWEVER FUTURE UPDATES TO CVR MAY BREAK IT.
+
 NOTICE: The Table needs it own layer named BeerPongTable for it to work, see images below for more info.
 
 A WIP beer pong table for ChilloutVR, just import it into your project, make sure you have TextMeshPro as well.
