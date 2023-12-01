@@ -8,6 +8,7 @@ A WIP beer pong table for ChilloutVR, just import it into your project, make sur
 
 - See my gumroad: https://yusarina.gumroad.com
 - See my github: https://github.com/Yusarina
+- See all my social media sites here: https://yusarina.xyz
 
 Requirements:
 - Unity 2021.3.23f1
